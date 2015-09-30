@@ -1,2 +1,4 @@
 # hellow-word
-Just another repository
+
+Here I'm learning how to use github.
+I'm very happy.
